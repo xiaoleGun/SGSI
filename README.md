@@ -44,3 +44,24 @@ system.img大小: 2710MB
 ![Flyme](https://s1.ax1x.com/2022/11/06/xXqhlj.jpg)
 
 Download Links: https://github.com/xiaoleGun/SGSI/releases/tag/Flyme-21-12-25
+
+### Origin Ocean
+> 制作于2021-12-11
+
+> 上传于2022.11.6
+
+厂商: vivo  
+安卓版本: 11  
+安卓code名称: REL  
+机型代号：   
+安卓sdk版本: 30  
+安卓spl日期: 2021-11-01  
+设备型号： V2056A  
+description:   
+build指纹信息： vivo/PD2056/PD2056:11/RP1A.200720.012/compiler1208155903:user/release-keys  
+system.img大小: 3800MB  
+构建日期: 2021-12-10-21:31  
+
+![OriginOcean](https://s1.ax1x.com/2022/11/06/xXLxPS.jpg)
+
+Download Links: https://github.com/xiaoleGun/SGSI/releases/tag/OriginOcean
