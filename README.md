@@ -23,3 +23,24 @@ system.img大小: 3410MB
 ![ZUI](https://s1.ax1x.com/2022/11/06/xXbe8H.jpg)
 
 Download Links: https://github.com/xiaoleGun/SGSI/releases/tag/ZUI
+
+### Flyme
+> 制作于2021.12.25
+
+> 上传于2022.11.6
+
+厂商: meizu  
+安卓版本: 11  
+安卓code名称: REL  
+机型代号： meizu_18_CN  
+安卓sdk版本: 30  
+安卓spl日期: 2021-11-01  
+设备型号： MEIZU 18  
+description:   
+build指纹信息： meizu/meizu_18_CN/meizu18:11/RKQ1.201105.002/1621305502:user/release-keys  
+system.img大小: 2710MB  
+构建日期: 2021-12-25-18:37  
+
+![Flyme](https://s1.ax1x.com/2022/11/06/xXqhlj.jpg)
+
+Download Links: https://github.com/xiaoleGun/SGSI/releases/tag/Flyme-21-12-25
